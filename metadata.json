@@ -1,0 +1,6 @@
+{
+  "name": "Калькулятор Дат",
+  "description": "Точный подсчёт дней, часов и минут между двумя датами и временем с календарём и сохранением событий.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
